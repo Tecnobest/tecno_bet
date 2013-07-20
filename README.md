@@ -1,4 +1,4 @@
-tecno_bet
+TecnoBet
 =========
 
-Gerenciador de Bolão
+Gerenciador de Apostas
